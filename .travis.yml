@@ -4,7 +4,6 @@ script:
 language: node_js
 
 node_js:
-  - "0.10"
   - "0.12"
 
 branches:
@@ -15,8 +14,7 @@ branches:
 matrix:
   fast_finish: true
   include:
-    - node_js: "0.10"
-      env: COVERAGE=true
+    - env: COVERAGE=true
   allow_failures:
     - env: COVERAGE=true
 
