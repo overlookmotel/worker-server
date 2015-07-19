@@ -8,6 +8,6 @@
 
 * Config use `local` override settings
 
-## Next
+## 0.1.2
 
 * Fix: Stop jobs sending Processing message after job finished
