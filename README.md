@@ -12,6 +12,8 @@
 
 ## Usage
 
+NOT READY FOR USE YET
+
 ## Tests
 
 Use `npm test` to run the tests. Use `npm run cover` to check coverage.
