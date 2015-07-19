@@ -12,6 +12,6 @@
 
 * Fix: Stop jobs sending Processing message after job finished
 
-## Next
+## 0.1.3
 
 * Fix: Bug with flagging jobs as finished
