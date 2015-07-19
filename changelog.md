@@ -4,6 +4,6 @@
 
 * Initial release
 
-## Next
+## 0.1.1
 
 * Config use `local` override settings
