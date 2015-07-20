@@ -15,3 +15,7 @@
 ## 0.1.3
 
 * Fix: Bug with flagging jobs as finished
+
+## Next
+
+* Throw Connection error if master server returns invalid JSON
