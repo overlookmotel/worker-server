@@ -19,3 +19,7 @@
 ## 0.1.4
 
 * Throw Connection error if master server returns invalid JSON
+
+## Next
+
+* Update dev dependencies
