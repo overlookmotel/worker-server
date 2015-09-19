@@ -22,4 +22,5 @@
 
 ## Next
 
+* Update dependencies
 * Update dev dependencies

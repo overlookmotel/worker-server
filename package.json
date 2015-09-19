@@ -14,14 +14,14 @@
     "url": "https://github.com/overlookmotel/worker-server/issues"
   },
   "dependencies": {
-    "bluebird": "^2.9.33",
-    "co-bluebird": "^0.1.0",
-    "co-series": "^0.1.0",
+    "bluebird": "^2.10.1",
+    "co-bluebird": "^1.1.0",
+    "co-series": "^1.0.0",
     "config-load": "^0.1.1",
-    "fs-extra-promise": "^0.2.0",
-    "lodash": "3.8.0",
-    "promisify-any": "^1.1.1",
-    "request": "^2.58.0",
+    "fs-extra-promise": "^0.3.0",
+    "lodash": "^3.10.1",
+    "promisify-any": "^2.0.1",
+    "request": "^2.64.0",
     "require-folder-tree": "^1.4.5"
   },
   "devDependencies": {
