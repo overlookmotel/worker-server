@@ -22,5 +22,6 @@
 
 ## Next
 
+* Workers instances of `Worker` class
 * Update dependencies
 * Update dev dependencies
