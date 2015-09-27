@@ -22,6 +22,7 @@
 
 ## Next
 
+* Use `bunyan` for logging
 * Workers instances of `Worker` class
 * Update dependencies
 * Update dev dependencies
