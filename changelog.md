@@ -22,6 +22,7 @@
 
 ## Next
 
+* Handle failure sending 'stopped' status to master server
 * Use `bunyan` for logging
 * Workers instances of `Worker` class
 * Update dependencies
