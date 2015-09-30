@@ -24,6 +24,7 @@
 
 * Handle failure sending 'stopped' status to master server
 * Use `bunyan` for logging
+* Job uses child logger
 * Additional logging
 * Workers instances of `Worker` class
 * Update dependencies
