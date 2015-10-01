@@ -25,6 +25,7 @@
 * Job cancellation
 * Promise-based timers in `Job`
 * Deferred promise implementation
+* Locker implementation
 * Handle failure sending 'stopped' status to master server
 * Use `bunyan` for logging
 * Job uses child logger
