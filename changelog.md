@@ -22,6 +22,7 @@
 
 ## Next
 
+* Promise-based timers in `Job`
 * Deferred promise implementation
 * Handle failure sending 'stopped' status to master server
 * Use `bunyan` for logging
