@@ -22,6 +22,7 @@
 
 ## Next
 
+* Deferred promise implementation
 * Handle failure sending 'stopped' status to master server
 * Use `bunyan` for logging
 * Job uses child logger
