@@ -20,7 +20,7 @@
 
 * Throw Connection error if master server returns invalid JSON
 
-## Next
+## 0.2.0
 
 * Refactor message sending
 * Job cancellation
