@@ -22,6 +22,7 @@
 
 ## Next
 
+* Refactor message sending
 * Job cancellation
 * Promise-based timers in `Job`
 * Deferred promise implementation
