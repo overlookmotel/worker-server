@@ -35,7 +35,7 @@
 * Update dependencies
 * Update dev dependencies
 
-## Next
+## 0.2.1
 
 * Complete `onConnected` handler before requesting job
 * Send server version to master server
