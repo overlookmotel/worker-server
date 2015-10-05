@@ -23,7 +23,8 @@
     "lodash": "^3.10.1",
     "promisify-any": "^2.0.1",
     "request": "^2.64.0",
-    "require-folder-tree": "^1.4.5"
+    "require-folder-tree": "^1.4.5",
+    "uuid": "^2.0.1"
   },
   "devDependencies": {
     "mocha": "^2.3.3",

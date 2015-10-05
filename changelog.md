@@ -38,3 +38,4 @@
 ## Next
 
 * Complete `onConnected` handler before requesting job
+* Message IDs for logging
