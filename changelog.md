@@ -34,3 +34,7 @@
 * Workers instances of `Worker` class
 * Update dependencies
 * Update dev dependencies
+
+## Next
+
+* Complete `onConnected` handler before requesting job
