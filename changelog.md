@@ -43,4 +43,5 @@
 
 ## Next
 
+* Move `Locker` into `lock-queue` module
 * Update `co-series` dependency
