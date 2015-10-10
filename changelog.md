@@ -44,4 +44,5 @@
 ## Next
 
 * Move `Locker` into `lock-queue` module
+* Remove `Utils.Locker` export
 * Update `co-series` dependency
