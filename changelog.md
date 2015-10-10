@@ -41,7 +41,7 @@
 * Send server version to master server
 * Message IDs for logging
 
-## Next
+## 0.3.0
 
 * Move `Locker` into `lock-queue` module
 * Remove `Utils.Locker` export
