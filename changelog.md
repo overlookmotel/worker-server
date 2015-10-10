@@ -40,3 +40,7 @@
 * Complete `onConnected` handler before requesting job
 * Send server version to master server
 * Message IDs for logging
+
+## Next
+
+* Update `co-series` dependency
