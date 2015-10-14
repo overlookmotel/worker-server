@@ -47,7 +47,7 @@
 * Remove `Utils.Locker` export
 * Update `co-series` dependency
 
-## Next
+## 0.4.0
 
 * Options from `new Server()` priority over read from config files
 * Trigger server stop on SIGTERM signal (`pm2 stop`)
