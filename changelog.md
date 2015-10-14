@@ -52,3 +52,4 @@
 * Options from `new Server()` priority over read from config files
 * Trigger server stop on SIGTERM signal (`pm2 stop`)
 * Log filenames based on app name
+* Update `bunyanesque` dependency
