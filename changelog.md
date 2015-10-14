@@ -46,3 +46,7 @@
 * Move `Locker` into `lock-queue` module
 * Remove `Utils.Locker` export
 * Update `co-series` dependency
+
+## Next
+
+* Trigger server stop on SIGTERM signal (`pm2 stop`)
