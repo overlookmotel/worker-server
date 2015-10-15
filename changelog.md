@@ -66,3 +66,4 @@
 ## Next
 
 * Split `Server#init()` into separate methods
+* Save reference to `server` on workers
