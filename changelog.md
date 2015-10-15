@@ -58,3 +58,7 @@
 ## 0.4.1
 
 * Fix: Don't wait for timer before starting job
+
+## Next
+
+* Export `promisify-any` module as `Utils.promisify`
