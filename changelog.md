@@ -62,3 +62,7 @@
 ## 0.4.2
 
 * Export `promisify-any` module as `Utils.promisify`
+
+## Next
+
+* Split `Server#init()` into separate methods
