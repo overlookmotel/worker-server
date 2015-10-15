@@ -55,6 +55,6 @@
 * Use bunyan serializers on logged objects
 * Update `bunyanesque` dependency
 
-## Next
+## 0.4.1
 
 * Fix: Don't wait for timer before starting job
