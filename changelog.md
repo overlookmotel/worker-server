@@ -63,7 +63,7 @@
 
 * Export `promisify-any` module as `Utils.promisify`
 
-## Next
+## 0.4.3
 
 * Split `Server#init()` into separate methods
 * Save reference to `server` on workers
