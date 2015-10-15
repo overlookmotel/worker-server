@@ -54,3 +54,7 @@
 * Log filenames based on app name
 * Use bunyan serializers on logged objects
 * Update `bunyanesque` dependency
+
+## Next
+
+* Fix: Don't wait for timer before starting job
