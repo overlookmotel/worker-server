@@ -68,6 +68,6 @@
 * Split `Server#init()` into separate methods
 * Save reference to `server` on workers
 
-## Next
+## 0.4.4
 
 * Log job failures at 'warn' level
