@@ -72,6 +72,6 @@
 
 * Log job failures at 'warn' level
 
-## Next
+## 0.4.5
 
 * Send first progress update immediately
