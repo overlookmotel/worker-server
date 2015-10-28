@@ -76,6 +76,6 @@
 
 * Send first progress update immediately
 
-## Next
+## 0.4.6
 
 * Return all attributes of error object when job fails
