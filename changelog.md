@@ -80,7 +80,7 @@
 
 * Return all attributes of error object when job fails
 
-## Next
+## 0.5.0
 
 * Next job from master server in `job` attribute + rename call 'ping'
 * `onPing` hook
