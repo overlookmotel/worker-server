@@ -89,6 +89,6 @@
 
 * `ping` action calls server item path
 
-## Next
+## 0.6.1
 
 * Fix: `onPing` only called if ping successful
