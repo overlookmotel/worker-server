@@ -85,6 +85,6 @@
 * Next job from master server in `job` attribute + rename call 'ping'
 * `onPing` hook
 
-## Next
+## 0.6.0
 
 * `ping` action calls server item path
