@@ -79,3 +79,7 @@
 ## 0.4.6
 
 * Return all attributes of error object when job fails
+
+## Next
+
+* Next job from master server in `job` attribute + rename call 'ping'
