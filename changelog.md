@@ -83,3 +83,4 @@
 ## Next
 
 * Next job from master server in `job` attribute + rename call 'ping'
+* `onPing` hook
