@@ -120,5 +120,6 @@
 
 ## Next
 
+* Fix: Scheduling
 * Fix: Remove npm ignore `Makefile`
 * Git ignore `.DS_Store`
