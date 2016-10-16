@@ -128,6 +128,6 @@
 * Fix: Remove npm ignore `Makefile`
 * Git ignore `.DS_Store`
 
-## Next
+## 0.8.0
 
 * Send worker versions to master server when connecting
