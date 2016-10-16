@@ -124,5 +124,6 @@
 * Docs on scheduling
 * `Server`, `Worker`, `Job` constructors named functions
 * Remove unused code
+* Code comments
 * Fix: Remove npm ignore `Makefile`
 * Git ignore `.DS_Store`
