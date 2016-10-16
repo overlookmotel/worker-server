@@ -109,3 +109,7 @@
 ## 0.7.1
 
 * Fix: Bug with `.stopped`
+
+## Next
+
+* Fix: Fix: Server don't stop pinging for next job
