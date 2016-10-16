@@ -118,7 +118,7 @@
 
 * Fix: Infinite loop in sending job progress
 
-## Next
+## 0.7.4
 
 * Fix: Scheduling
 * Docs on scheduling
