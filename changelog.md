@@ -95,6 +95,7 @@
 
 ## Next
 
+* Fix: Prevent out of control pinging
 * Fix: Incorrect statement in log message
 * Drop support for Node before v4.x
 * Update dependencies
