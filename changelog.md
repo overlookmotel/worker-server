@@ -117,3 +117,7 @@
 ## 0.7.3
 
 * Fix: Infinite loop in sending job progress
+
+## Next
+
+* Git ignore `.DS_Store`
