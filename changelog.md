@@ -93,7 +93,7 @@
 
 * Fix: `onPing` only called if ping successful
 
-## Next
+## 0.7.0
 
 * Fix: Prevent out of control pinging
 * Remove default port number
