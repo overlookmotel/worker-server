@@ -97,3 +97,4 @@
 
 * Drop support for Node before v4.x
 * Replace `Makefile` with npm scripts
+* Update license

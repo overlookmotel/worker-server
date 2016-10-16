@@ -54,10 +54,5 @@
     "node": ">=4"
   },
   "readmeFilename": "README.md",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/overlookmotel/worker-server/raw/master/License"
-    }
-  ]
+  "license": "MIT"
 }
