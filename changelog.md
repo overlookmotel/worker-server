@@ -113,3 +113,7 @@
 ## 0.7.2
 
 * Fix: Fix: Server don't stop pinging for next job
+
+## Next
+
+* Fix: Infinite loop in sending job progress
