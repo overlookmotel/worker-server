@@ -106,6 +106,6 @@
 * Update license
 * Whitespace
 
-## Next
+## 0.7.1
 
 * Fix: Bug with `.stopped`
