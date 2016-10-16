@@ -97,4 +97,5 @@
 
 * Drop support for Node before v4.x
 * Replace `Makefile` with npm scripts
+* Travis CI runs on all branches (to enable `greenkeeper.io`)
 * Update license
