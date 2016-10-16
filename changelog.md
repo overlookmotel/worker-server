@@ -98,6 +98,7 @@
 * Fix: Incorrect statement in log message
 * Drop support for Node before v4.x
 * Update dependencies
+* Update dev dependencies
 * Replace `Makefile` with npm scripts
 * Travis CI runs on all branches (to enable `greenkeeper.io`)
 * Update license
