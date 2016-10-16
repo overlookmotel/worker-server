@@ -105,3 +105,7 @@
 * Travis CI runs on all branches (to enable `greenkeeper.io`)
 * Update license
 * Whitespace
+
+## Next
+
+* Fix: Bug with `.stopped`
