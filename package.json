@@ -1,6 +1,6 @@
 {
   "name": "worker-server",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Worker server to run jobs instructed by central server",
   "main": "./lib/",
   "author": {
