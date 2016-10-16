@@ -92,3 +92,7 @@
 ## 0.6.1
 
 * Fix: `onPing` only called if ping successful
+
+## Next
+
+* Replace `Makefile` with npm scripts
