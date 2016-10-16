@@ -114,6 +114,6 @@
 
 * Fix: Server don't stop pinging for next job
 
-## Next
+## 0.7.3
 
 * Fix: Infinite loop in sending job progress
