@@ -131,3 +131,7 @@
 ## 0.8.0
 
 * Send worker versions to master server when connecting
+
+## Next
+
+* Update `lock-queue` dependency to fix no pinging while job running
