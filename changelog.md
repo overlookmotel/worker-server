@@ -136,7 +136,7 @@
 
 * Update `lock-queue` dependency to fix no pinging while job running
 
-## Next
+## 0.8.2
 
 * Fix: Bug preventing reconnect after disconnection
 * Fix: Prevent unexpected errors being swallowed when getting next job
