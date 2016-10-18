@@ -139,4 +139,5 @@
 ## Next
 
 * Fix: Bug preventing reconnect after disconnection
+* Fix: Prevent unexpected errors being swallowed when getting next job
 * Log when disconnected from master server
