@@ -139,3 +139,4 @@
 ## Next
 
 * Fix: Bug preventing reconnect after disconnection
+* Log when disconnected from master server
