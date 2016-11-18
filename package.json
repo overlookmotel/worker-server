@@ -25,7 +25,7 @@
     "promisify-any": "^2.0.1",
     "request": "^2.75.0",
     "require-folder-tree": "^1.4.5",
-    "uuid": "^2.0.3",
+    "uuid": "^3.0.0",
     "moment": "^2.15.1"
   },
   "devDependencies": {
