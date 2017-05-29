@@ -1,5 +1,7 @@
 # worker-server.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/worker-server.svg)](https://greenkeeper.io/)
+
 # Worker server to run jobs instructed by central server
 
 ## Current status
