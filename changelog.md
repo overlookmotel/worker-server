@@ -145,3 +145,4 @@
 ## Next
 
 * Job cancellation
+* Drop support for Node v4
