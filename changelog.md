@@ -147,5 +147,6 @@
 * Job cancellation
 * Drop support for Node v4
 * Do not log whole server object on job start
+* Refactor for code style and ES6
 * Update dependencies
 * Update dev dependencies

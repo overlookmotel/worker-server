@@ -1,17 +1,17 @@
-// --------------------
-// worker-server module
-// Tests
-// --------------------
+/* --------------------
+ * worker-server module
+ * Tests
+ * ------------------*/
 
-// modules
-var chai = require('chai'),
+// Modules
+const chai = require('chai'),
 	expect = chai.expect,
 	workerServer = require('../lib/');
 
-// init
+// Init
 chai.config.includeStack = true;
 
-// tests
+// Tests
 
 /* jshint expr: true */
 /* global describe, it */
