@@ -151,6 +151,6 @@
 * Update dependencies
 * Update dev dependencies
 
-## Next
+## 0.9.1
 
 * Update `require-folder-tree` dependency
