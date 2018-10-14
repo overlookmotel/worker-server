@@ -24,7 +24,7 @@
     "lodash": "^4.17.11",
     "promisify-any": "^2.0.1",
     "request": "^2.88.0",
-    "require-folder-tree": "^1.4.5",
+    "require-folder-tree": "^1.4.7",
     "uuid": "^3.3.2",
     "moment": "^2.22.2"
   },

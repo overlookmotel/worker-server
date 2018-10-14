@@ -150,3 +150,7 @@
 * Refactor for code style and ES6
 * Update dependencies
 * Update dev dependencies
+
+## Next
+
+* Update `require-folder-tree` dependency
