@@ -148,3 +148,4 @@
 * Drop support for Node v4
 * Do not log whole server object on job start
 * Update dependencies
+* Update dev dependencies

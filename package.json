@@ -29,11 +29,11 @@
     "moment": "^2.22.2"
   },
   "devDependencies": {
-    "mocha": "^3.1.2",
-    "chai": "^3.5.0",
-    "jshint": "^2.9.3",
+    "mocha": "^5.2.0",
+    "chai": "^4.2.0",
+    "jshint": "^2.9.6",
     "istanbul": "^0.4.5",
-    "coveralls": "^2.11.4"
+    "coveralls": "^3.0.2"
   },
   "keywords": [
     "worker",
