@@ -142,7 +142,7 @@
 * Fix: Prevent unexpected errors being swallowed when getting next job
 * Log when disconnected from master server
 
-## Next
+## 0.9.0
 
 * Job cancellation
 * Drop support for Node v4
