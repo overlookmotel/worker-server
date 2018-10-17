@@ -154,3 +154,7 @@
 ## 0.9.1
 
 * Update `require-folder-tree` dependency
+
+## Next
+
+* Fix: Do not log whole server object on job start
