@@ -14,7 +14,7 @@
     "url": "https://github.com/overlookmotel/worker-server/issues"
   },
   "dependencies": {
-    "bluebird": "^2.11.0",
+    "bluebird": "^3.5.0",
     "bunyanesque": "^0.2.1",
     "co-bluebird": "^1.1.0",
     "co-series": "^3.0.2",
